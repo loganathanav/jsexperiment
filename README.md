@@ -1,1 +1,1 @@
-<h1> Experimenting latest js features </h1>
+<h1>Experimenting latest js features</h1>
