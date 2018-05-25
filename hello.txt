@@ -1,0 +1,5 @@
+
+./rest-declarative-1.0/bin/rest-declarative --script ./gcloud/gcloud.js --template ./gcloud/gcloud-template.json --properties ./gcloud/gcloud-properties.json --rest_source ./gcloud/gcloud-source.json --dest ./gcloud/gcloud-dest-r11.json
+
+https://mockbiit-validator.us-west-2.elasticbeanstalk.com/biit/api/v2/domains/rtennant.apptio.com/projects/Google%20Integration%20Guide/tables/restValidatorGCloud/dates/Apr:2018
+
